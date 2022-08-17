@@ -17,6 +17,7 @@ Create a new project?	Yes		Fork existing project	Clone existing repository	Clone
 
 <table>
 	<tr>
+		<th> </th>
 		<th>Project 1</th>
 		<th>Project 2</th>
 		<th>Project 3</th>
