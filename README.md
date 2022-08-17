@@ -31,7 +31,7 @@
 		<td>Yes</td>
 	</tr>
 	<tr>
-		<td>Create a new project></td>
+		<td>Create a new project?</td>
 		<td>Yes</td>
 		<td> </td>
 		<td>"Fork existing project"</td>
