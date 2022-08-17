@@ -1,5 +1,5 @@
 # CMPG-323-Overview---31857256
-Project 1
+<h1>Project 1</h1>
 
 <h2> Repositories to be created </h2>
 - CMPG 323 Project 1 - 31857256
@@ -9,15 +9,15 @@ Project 1
 - CMPG 323 Project 4 - 31857256
 - CMPG 323 Project 5 - 31857256
 
-Project and repository context
+<h2>Project and repository context</h2>
 - Each project will have its own repository and all the repositories of each project will be linked to the Kanban wall in the "Overview" repository
 - By swiftly scanning through the projects and their requirements I've come up with the following table regarding project and repository context. This is subject to change.
 	
-Branching Strategies
+<h2>Branching Strategies</h2>
 - I plan to create atleast 1 branch apart from the main branch within each repository to work on the specific project requirements and later push and commit my work to the main branch.
 
-Use of the .gitignore file
+<h2>Use of the .gitignore file</h2>
 -
 
-Storage of credentials and sensitive information 
+<h2>Storage of credentials and sensitive information</h2> 
 - I plan to store all credentials and sensitive information in a ---- file. I'll add this file to the .gitignore. This will prevent the file to be published on github leaving this confidential information undisclosed to the public.
