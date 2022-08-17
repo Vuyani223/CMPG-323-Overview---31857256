@@ -45,7 +45,7 @@
 - I plan to create atleast 1 branch apart from the main branch within each repository to work on the specific project requirements and later push and commit my work to the main branch.
 
 <h2>Use of the .gitignore file</h2>
--
+- All the files I don't want to publish on GitHub will be added into the .gitignore file.
 
 <h2>Storage of credentials and sensitive information</h2> 
 - I plan to store all credentials and sensitive information in a ---- file. I'll add this file to the .gitignore. This will prevent the file to be published on github leaving this confidential information undisclosed to the public.
