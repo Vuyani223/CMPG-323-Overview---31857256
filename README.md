@@ -2,8 +2,7 @@
 <h1>Project 1</h1>
 
 <h2> Repositories to be created </h2>
-- CMPG 323 Project 1 - 31857256
-  https://github.com/Vuyani223/CMPG-323-Overview---31857256
+- CMPG 323 Project 1 - 31857256 (https://github.com/Vuyani223/CMPG-323-Overview---31857256)
 - CMPG 323 Project 2 - 31857256
 - CMPG 323 Project 3 - 31857256
 - CMPG 323 Project 4 - 31857256
