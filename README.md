@@ -24,6 +24,14 @@ Create a new project?	Yes		Fork existing project	Clone existing repository	Clone
 		<th>Project 4</th>
 		<th>Project 5</th>
 	</tr>
+	<tr>
+		<td>Create and configure new repository?</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+	</tr>
 </table>
 	
 <h2>Branching Strategies</h2>
