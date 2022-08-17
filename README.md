@@ -11,10 +11,6 @@
 <h2>Project and repository context</h2>
 - Each project will have its own repository and all the repositories of each project will be linked to the Kanban wall in the "Overview" repository
 - By swiftly scanning through the projects and their requirements I've come up with the following table regarding project and repository context. This is subject to change.
-- 	Project 1	Project 2	Project 3	Project 4	Project 5
-Create and Configure new repository?	Yes	Yes	Yes	Yes	Yes
-Create a new project?	Yes		Fork existing project	Clone existing repository	Clone existing repository
-
 <table>
 	<tr>
 		<th> </th>
@@ -31,6 +27,15 @@ Create a new project?	Yes		Fork existing project	Clone existing repository	Clone
 		<td>Yes</td>
 		<td>Yes</td>
 		<td>Yes</td>
+	</tr>
+	<tr>
+		<td>Create a new project></td>
+		<td>Yes</td>
+		<td> </td>
+		<td>"Fork existing project"</td>
+		<td>"Clone existing repository"</td>
+		<td>"Clone existing repository"</td>
+		
 	</tr>
 </table>
 	
