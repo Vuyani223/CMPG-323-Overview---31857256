@@ -2,11 +2,13 @@
 <h1>Project 1</h1>
 
 <h2> Repositories to be created </h2>
-- CMPG 323 Project 1 - 31857256 (https://github.com/Vuyani223/CMPG-323-Overview---31857256)
-- CMPG 323 Project 2 - 31857256
-- CMPG 323 Project 3 - 31857256
-- CMPG 323 Project 4 - 31857256
-- CMPG 323 Project 5 - 31857256
+<ul>
+	<li>CMPG 323 Project 1 - 31857256 (https://github.com/Vuyani223/CMPG-323-Overview---31857256)</li>
+	<li>CMPG 323 Project 2 - 31857256</li>
+	<li>CMPG 323 Project 3 - 31857256</li>
+	<li>CMPG 323 Project 4 - 31857256</li>
+	<li>CMPG 323 Project 5 - 31857256</li>
+</ul>
 
 <h2>Project and repository context</h2>
 - Each project will have its own repository and all the repositories of each project will be linked to the Kanban wall in the "Overview" repository
