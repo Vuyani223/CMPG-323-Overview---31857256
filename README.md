@@ -11,6 +11,19 @@
 <h2>Project and repository context</h2>
 - Each project will have its own repository and all the repositories of each project will be linked to the Kanban wall in the "Overview" repository
 - By swiftly scanning through the projects and their requirements I've come up with the following table regarding project and repository context. This is subject to change.
+- 	Project 1	Project 2	Project 3	Project 4	Project 5
+Create and Configure new repository?	Yes	Yes	Yes	Yes	Yes
+Create a new project?	Yes		Fork existing project	Clone existing repository	Clone existing repository
+
+<table>
+	<tr>
+		<th>Project 1</th>
+		<th>Project 2</th>
+		<th>Project 3</th>
+		<th>Project 4</th>
+		<th>Project 5</th>
+	</tr>
+</table>
 	
 <h2>Branching Strategies</h2>
 - I plan to create atleast 1 branch apart from the main branch within each repository to work on the specific project requirements and later push and commit my work to the main branch.
